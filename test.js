@@ -1,1 +1,0 @@
-let prom = new Promise()
